@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1820A125-34CF-4177-90BF-F9AA3889F36A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomFonts/CustomFontsPage.xaml">
+    <Files>
+      <File FileName="CustomFonts/App.xaml" Line="13" Column="20" />
+      <File FileName="CustomFonts/CustomFontsPage.xaml" Line="9" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CustomFonts.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.ADCADF44-AD9E-45C2-9BEB-A1B086CC3B08" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomFonts.Droid PreferredExecutionTarget="Android.And" />
+  <MultiItemStartupConfigurations />
+</Properties>
